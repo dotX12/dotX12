@@ -4,7 +4,6 @@
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotX12&theme=github_dark">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dotX12&theme=github_dark">
     </p>
-
 </a> 
 
 
