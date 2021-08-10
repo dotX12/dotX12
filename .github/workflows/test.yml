@@ -1,15 +1,8 @@
-name: Hello World
-
-#on:
-#  schedule:
-#    #- cron:  '0 */12 * * *'
-#    - cron:  '* * * * *'
-
-on: [push]
-
+name: hello-world
+on: push
 jobs:
-  one:
-    name: Hello
+  my-job:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "hello world"
+      - name: my-step
+        run: echo "Hello World!"
