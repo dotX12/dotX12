@@ -1,0 +1,15 @@
+name: Hello World
+
+#on:
+#  schedule:
+#    #- cron:  '0 */12 * * *'
+#    - cron:  '* * * * *'
+
+on: [push]
+
+jobs:
+  one:
+    name: Hello
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hello world"
