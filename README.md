@@ -13,5 +13,6 @@
    
 
  <p align="center">
- <img align="center" src="https://wakatime.com/badge/user/d7719120-a1d0-44d7-afe6-93e4e48ee23e.svg">
+ <img src="https://wakatime.com/badge/user/d7719120-a1d0-44d7-afe6-93e4e48ee23e.svg">
+ <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dotX12?style=social">
  </p>
